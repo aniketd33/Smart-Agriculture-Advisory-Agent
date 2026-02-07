@@ -63,7 +63,8 @@ This project solves the problem by combining:
 4. Results are displayed through a user-friendly web interface
 
 ---
-## 📂 Project Structure
+### 📂 Project Structure
+
 Smart-Agriculture-Advisory-Agent/
 │
 ├── app.py
@@ -109,9 +110,10 @@ GROQ_API_KEY=your_api_key_here
 ## Step 5: Run App
 streamlit run app.py
 
-----
+-------
 
-## 🔮 Future Enhancements
+
+#### 🔮 Future Enhancements
 
 - Multi-language support (Marathi / Hindi)
 - Crop disease detection using images
@@ -126,7 +128,7 @@ streamlit run app.py
 **Aniket Dombale**  
 Data Science & AI Enthusiast  
 
----
+-------
 
 ⭐ If you find this project useful, feel free to star the repository.
 

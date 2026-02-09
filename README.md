@@ -91,7 +91,7 @@ Smart-Agriculture-Advisory-Agent/
 ## 🚀 How to Run the Project
 
 ## Step 1: Clone Repository
-```bash
+
 git clone https://github.com/USERNAME/Smart-Agriculture-Advisory-Agent.git
 cd Smart-Agriculture-Advi sory-Agent
 
@@ -113,7 +113,7 @@ streamlit run app.py
 -------
 
 
-#### 🔮 Future Enhancements
+####🔮**Future Enhancements**
 
 - Multi-language support (Marathi / Hindi)
 - Crop disease detection using images

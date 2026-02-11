@@ -98,13 +98,12 @@ cd Smart-Agriculture-Advi sory-Agent
 ### Step 2: Create Virtual Environment
 python -m venv .venv
 .venv\Scripts\activate
+
 Step 3: Install Requirements
 pip install streamlit pandas scikit-learn joblib groq python-dotenv
 
 ## Step 4: Setup .env
-
 Create .env file:
-
 GROQ_API_KEY=your_api_key_here
 
 ## Step 5: Run App

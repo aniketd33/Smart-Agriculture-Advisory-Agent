@@ -65,13 +65,8 @@ This project solves the problem by combining:
 ---
 ### 📂 Project Structure
 
-Smart-Agriculture-Advisory-Agent/
-│
-├── app.py
-├── crop_recommendation_model.pkl
-├── README.md
-├── .env
-└── .gitignore
+<img width="183" height="101" alt="image" src="https://github.com/user-attachments/assets/5b137d8c-92f9-457e-b991-200ce9c3d783" />
+
 
 
 ## 📤 Output
